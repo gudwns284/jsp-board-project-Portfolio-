@@ -59,4 +59,3 @@ __3. 기능__
 
 + __다른 유저의 글__
 ![남의 글](https://user-images.githubusercontent.com/89718089/143280386-0d9013ce-7bb2-4cd0-8210-032197c5cd04.JPG)
-
