@@ -1,7 +1,3 @@
-# jsp_bbs_prac
-
-* [나동빈-JSP 게시판 강좌](https://www.youtube.com/watch?v=wEIBDHfoMBg&list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6)를 참고해서 만들어본 JSP 게시판 코드입니다
-
 ## 배운 것
 
 * 세션으로 로그인 여부 확인
