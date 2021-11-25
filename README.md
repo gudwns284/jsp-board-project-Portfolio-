@@ -38,7 +38,9 @@ __3. 기능__
 ![일정](https://user-images.githubusercontent.com/89718089/143385226-f4149015-8491-4c80-a040-9f054b1ff244.JPG)
 
 
+
 + __개발 로직__
++ 
 ![글](https://user-images.githubusercontent.com/89718089/143390305-ce235ad6-3b58-4bff-a88e-00ea2e24e5ec.JPG)
 
 + __메인__
