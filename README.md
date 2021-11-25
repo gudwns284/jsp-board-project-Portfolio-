@@ -34,6 +34,10 @@ __3. 기능__
   - GitHub
 
 ---
++ __개발 일정__
+![일정](https://user-images.githubusercontent.com/89718089/143385226-f4149015-8491-4c80-a040-9f054b1ff244.JPG)\
+
+
 + __메인__
 ![main](https://user-images.githubusercontent.com/89718089/143279985-693ba432-083d-46c7-a891-07e93249e0bd.JPG)
 
