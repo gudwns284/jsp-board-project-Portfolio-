@@ -40,7 +40,7 @@ __3. 기능__
 
 
 + __개발 로직__
-+ 
+
 ![글](https://user-images.githubusercontent.com/89718089/143390305-ce235ad6-3b58-4bff-a88e-00ea2e24e5ec.JPG)
 
 + __메인__
